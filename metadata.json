@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Personal Accounting",
+  "description": "Standard personal accounting and finance tracker with digital cards, interactive transaction calculator, payees, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
